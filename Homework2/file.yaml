@@ -1,0 +1,7 @@
+key1:
+- test
+- test1
+key2: 300
+key3:
+  eur: 100€
+  usd: 70$
